@@ -24,4 +24,3 @@ https://view.officeapps.live.com/op/view.aspx?src= + yourFile
 https://simingchen.github.io/pdfReader/pdf/viewer.html?file= + yourFile
 ```
 4. 换上在线pdf文件即可，可[预览](https://simingchen.github.io/pdfReader/pdf/viewer.html?file=https://simingchen.github.io/pdfReader/pdf/test.pdf)demo
-
