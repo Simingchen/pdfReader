@@ -1,7 +1,6 @@
-# pdfReader 查看器
+# 项目一：word、excel、pdf查看器
 
 该项目是一个PDF或excel格式的文件上传到后台，前端在需要将这份协议弄成可预览的形式。
-
 
 ### 功能
 1. 在线预览word、excel、pdf等文件
@@ -24,3 +23,12 @@ https://view.officeapps.live.com/op/view.aspx?src= + yourFile
 https://simingchen.github.io/pdfReader/pdf/viewer.html?file= + yourFile
 ```
 4. 换上在线pdf文件即可，可[预览](https://simingchen.github.io/pdfReader/pdf/viewer.html?file=https://simingchen.github.io/pdfReader/pdf/test.pdf)demo
+
+# 项目二：3D阅读器
+
+该项目是一个在线预览图片以3D，杂志的方式的项目。
+
+### 功能
+1. 预览图片以3D在线杂志的方式
+2. 整个项目文件包含css, 动画声音voice, 图片images, 相关js等
+3. 查看[地址](https://simingchen.github.io/pdfReader/index.html)
