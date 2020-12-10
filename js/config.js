@@ -15,9 +15,6 @@ var aliasLanguage = {
   frmLinkLabel: ["lblLink"] //lblLink  frmShareLinkLabel
 };
 
-var testImgList = [
-  'http://img.mp.itc.cn/upload/20170604/91cca58167934d85b5f8a32928e192c8_th.jpg'
-]
 var bookConfig = {
   bookPageStretch: false,
   maxHeightToSmallMode: 360,
