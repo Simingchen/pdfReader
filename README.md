@@ -32,3 +32,4 @@ https://simingchen.github.io/pdfReader/pdf/viewer.html?file= + yourFile
 1. 预览图片以3D在线杂志的方式
 2. 整个项目文件包含css, 动画声音voice, 图片images, 相关js等
 3. 查看[地址](https://simingchen.github.io/pdfReader/index.html)
+4. 使用配置 bookImgData.js 的变量作为图片服务器的资源对应，本地测试路径 'files/thumb'，暂时文件对应为数字 1.jpg 命名。
